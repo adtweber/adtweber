@@ -1,5 +1,5 @@
 # Hi there, I'm Andi ✌
-💻 Ex-Sales Rep turned Software Developer looking to grow my skills and build really cool things. I'm interested in web accessibility, working with data, and providing practical solutions to complex problems. With over 7 years experience in the tech industry, I'm currently searching for my next opportunity. 
+⚡ Ex-Sales Rep turned Software Developer looking to grow my skills and build really cool things. I'm interested in web accessibility, working with data, and providing practical solutions to complex problems. With over 7 years experience in the tech industry, I'm currently searching for my next opportunity. 
 
 - 💕 Pronouns: they/them/theirs & she/her/hers
 - 🌱 Obsessed with learning: Python, SQL, React
