@@ -19,6 +19,11 @@
 ### IDEs & Other Skills
 [![IDEs & Other Skills](https://skillicons.dev/icons?i=vscode,postman,aws,md,gitlab&perline=6)](https://skillicons.dev)
 
+## 💬 Contact
+For opportunities to collaborate or talk metal, please get in touch!
+- 📧 Email: adtweber@gmail.com
+- 👤 LinkedIn: https://www.linkedin.com/in/andisrad/
+
 
 
 <!--
